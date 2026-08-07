@@ -1,50 +1,72 @@
-# 🎬 DevCine — Experience the Future of Cinema
+<div align="center">
 
-Chào mừng bạn ghé thăm trang nhà chính thức của **DevCine-F**! 
+# 🎬 DevCine — The Story Behind the Screen
 
----
+*“Nơi công nghệ nâng tầm trải nghiệm điện ảnh.”*
 
-## 🌟 Mục đích dự án
-**DevCine** là dự án **Đồ án tốt nghiệp** được chúng mình tâm huyết phát triển tại **Trường Cao đẳng FPT Polytechnic**. 
+<br/>
 
-Dự án được xây dựng với mục tiêu cung cấp giải pháp công nghệ toàn diện cho hệ thống cụm rạp **DevCine**:
-* **Về phía quản lý:** Hỗ trợ tối ưu hóa quy trình vận hành toàn hệ thống — từ quản lý suất chiếu, sơ đồ ghế, dịch vụ đi kèm đến theo dõi doanh thu một cách chính xác, nhanh chóng và hiệu quả.
-* **Về phía khách hàng:** Mang đến trải nghiệm mua vé tuyệt vời và tiện lợi nhất trên cả hai nền tảng **Trực tuyến (Online)** lẫn **Tại rạp (Offline)**, giúp người xem dễ dàng chọn ghế, thanh toán mượt mà và tận hưởng trọn vẹn những khoảnh khắc điện ảnh.
+![DevCine Banner](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&pause=1000&color=E50914&center=true&vCenter=true&width=650&height=70&lines=DevCine%3A+A+Journey+of+Innovation;Crafted+with+Passion+at+FPT+Polytechnic)
 
 ---
 
-## 🤝 Đội ngũ thực hiện - **Nhóm SD-07**
-Dự án là kết quả của sự phối hợp và nỗ lực cùng nhau từ các thành viên:
+</div>
 
-* **Nguyễn Quang Huy** — Trưởng nhóm (Leader)
-* **Văn Minh Khôi** — Thành viên
-* **Phạm Thị Quỳnh Anh** — Thành viên
-* **Nguyễn Ngọc Hà Linh** — Thành viên
+## 📜 Chương I: Khởi Nguồn Ý Tưởng
+
+> *"Mỗi bộ phim là một hành trình cảm xúc. Nhưng hành trình ấy nên được bắt đầu ngay từ giây phút người xem kết nối đến tấm vé đầu tiên."*
+
+**DevCine** ra đời từ chính những trăn trở thực tế trong ngành dịch vụ giải trí. Chúng mình — **Nhóm SD-07**, những sinh viên thuộc **Trường Cao đẳng FPT Polytechnic** — nhận thấy rằng:
+
+* **Đối với hệ thống rạp chiếu:** Việc quản lý lịch chiếu, sơ đồ ghế thời gian thực hay đồng bộ vận hành luôn là thách thức lớn nếu chưa có một giải pháp vận hành tối ưu.
+* **Đối với khán giả:** Sự tiện lợi, nhanh chóng từ khi đặt vé trực tuyến lẫn mua trực tiếp tại rạp đến lúc check-in chính là yếu tố cốt lõi quyết định một trải nghiệm trọn vẹn.
+
+Từ đó, **DevCine** được định hình không chỉ là một bài **Đồ án tốt nghiệp**, mà còn hướng tới xây dựng một hệ sinh thái quản lý và đặt vé xem phim toàn diện, hiện đại và tối ưu hóa trải nghiệm người dùng.
 
 ---
 
-## 💻 Công nghệ đồng hành
-Để mang lại trải nghiệm mượt mà và ổn định, hệ thống được xây dựng trên nền tảng công nghệ hiện đại:
+## 🧭 Chương II: Những Người Đồng Hành (SD-07)
 
-* **Giao diện (Frontend):** Vue.js, HTML5, CSS3, JavaScript
-* **Hệ thống (Backend):** Java Spring Boot
-* **Cơ sở dữ liệu:** PostgreSQL
+Hành trình biến ý tưởng thành sản phẩm thực tế là quả ngọt từ sự phối hợp gắn kết và tâm huyết của các thành viên:
+
+* **Nguyễn Quang Huy** — *Trưởng nhóm (Leader)* 👑  
+  `Định hướng kiến trúc hệ thống, phân tích nghiệp vụ & Quản lý vận hành dự án`
+* **Văn Minh Khôi** — *Thành viên* ⚡  
+  `Phát triển tính năng cốt lõi & Tối ưu hóa hiệu năng hệ thống`
+* **Phạm Thị Quỳnh Anh** — *Thành viên* 🌸  
+  `Thiết kế giao diện, tinh chỉnh trải nghiệm người dùng (UI/UX)`
+* **Nguyễn Ngọc Hà Linh** — *Thành viên* 💎  
+  `Xây dựng kịch bản nghiệp vụ, đảm bảo chất lượng & Kiểm thử hệ thống`
+
+---
+
+## 🧩 Chương III: Mảnh Ghép Công Nghệ
+
+Để hiện thực hóa câu chuyện, chúng mình đã lựa chọn những mảnh ghép công nghệ hiện đại, đặt tiêu chí mượt mà, chính xác và độ an toàn lên hàng đầu:
+
+* **Giao diện (Frontend):** **Vue.js**, **HTML5**, **CSS3**, **JavaScript** — Tạo nên không gian tương tác trực quan, mượt mà và tối ưu trên mọi thiết bị.
+* **Hệ thống (Backend):** **Java Spring Boot** — Trái tim của hệ thống, xử lý luồng nghiệp vụ phức tạp với tốc độ cao và độ ổn định tin cậy.
+* **Cơ sở dữ liệu:** **PostgreSQL** — Nơi lưu trữ dữ liệu tập trung, đảm bảo tính nhất quán cho các giao dịch thời gian thực.
 * **Tích hợp tiện ích:**
-  * Thanh toán trực tuyến an toàn qua **VNPAY Payment Gateway**
-  * Tự động gửi thông tin vé & xác nhận qua **Gmail Sender**
+  * **VNPAY Payment Gateway:** Kết nối thanh toán trực tuyến tức thì, an toàn và bảo mật.
+  * **Gmail Sender System:** Tự động hóa quy trình gửi vé điện tử, thông báo và hóa đơn tức thời đến tay khách hàng.
 
 ---
 
-## 🔒 Về mã nguồn dự án
-> **Lưu ý nhỏ về mã nguồn:** Để bảo vệ quyền sở hữu trí tuệ cũng như tuân thủ quy định đánh giá đồ án, các repository chứa mã nguồn chính hiện được thiết lập ở chế độ riêng tư (**Private**).
+## 🔐 Chương IV: Góc Nhìn Bảo Mật & Kết Nối
 
-Nếu Quý Thầy/Cô, Quý Doanh nghiệp hoặc các bạn quan tâm muốn xem qua nguồn mã để đánh giá kỹ thuật, đừng ngần ngại liên hệ với Trưởng nhóm qua email. Chúng mình rất vui được chia sẻ và cấp quyền truy cập!
+> **Lưu ý nhỏ về mã nguồn:** Để bảo vệ quyền sở hữu trí tuệ cũng như tuân thủ các quy định đánh giá đồ án tốt nghiệp, toàn bộ repository chứa mã nguồn cốt lõi của DevCine hiện đang được giữ riêng tư (**Private**).
 
----
+Tuy nhiên, câu chuyện của chúng mình luôn mở rộng với những ai chung niềm đam mê công nghệ. Nếu Quý Thầy/Cô, Quý Doanh nghiệp hoặc các bạn quan tâm muốn trao đổi chuyên môn hay tham khảo kiến trúc mã nguồn, đừng ngần ngại kết nối với nhóm nhé:
 
-## 📬 Kết nối với chúng mình
 * **Đại diện nhóm:** Nguyễn Quang Huy
-* **Email:** huynq0503@gmail.com
-* **Trường:** Cao đẳng FPT Polytechnic Hà Nội
+* **Email:** [huynq0503@gmail.com](mailto:huynq0503@gmail.com)
+* **Đơn vị:** Trường Cao đẳng FPT Polytechnic Hà Nội
+
 ---
-*Cảm ơn bạn đã ghé thăm DevCine-F!* ✨
+
+<div align="center">
+
+*Chân thành cảm ơn bạn đã lắng nghe câu chuyện của **DevCine-F**!* ✨
+
+</div>
